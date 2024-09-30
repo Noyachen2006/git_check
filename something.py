@@ -2,7 +2,7 @@
 print(" Hello Enter your  name: ")
 
 #2
-print("maya" )
+print("maya and linoy" )
 
 
 
